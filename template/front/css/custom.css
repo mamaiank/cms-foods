@@ -1,0 +1,317 @@
+.shop-badge.badge-lists {
+    margin-bottom: 0;
+}
+
+.detail{
+    font-family: 'Prompt', sans-serif;
+}
+
+.shop-badge.badge-lists li {
+    position: relative;
+}
+
+@media (max-width: 991px) {
+    .shop-badge {
+        display: none;
+    }
+}
+
+/*Badge Icons*/
+.shop-badge span.badge-sea {
+    /*background: #AB00FF;*/
+    background: #FCAD73;
+}
+
+ul.shop-badge > li {
+    position: relative;
+}
+
+a.shop-badge > li:hover .badge-open {
+    display: block;
+}
+.badge-open {
+    top: 20px;
+    right: 0;
+    display: none;
+    padding: 0 20px;
+    list-style: none;
+    min-width: 450px;
+    z-index: 9999;
+    background: #fff;
+    position: absolute;
+    border-top: 2px solid #E67C8E;
+    -webkit-box-shadow: 0 2px 2px 0px rgba(90,90,90,0.075);
+    -moz-box-shadow: 0 2px 2px 0px rgba(90,90,90,0.075);
+    box-shadow: 0 5px 5px 0px rgba(90,90,90,0.075);
+    border-bottom-left-radius:4px !important;
+    border-bottom-right-radius:4px !important;
+}
+
+.badge-open li {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #dedede;
+}
+
+.badge-open li:first-child {
+    margin-top: 0;
+    border-top: none;
+    padding-top: 20px;
+}
+
+.badge-open li:after,
+.badge-open li:before {
+    content: " ";
+    display: table;
+}
+
+.badge-open img {
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.badge-open .close {
+    line-height: 1.9;
+}
+
+.badge-open span {
+    margin: 7px 0;
+    /*color: #fff;*/
+    display: block;
+    font-size: 14px;
+}
+
+.badge-open small {
+    color: #777;
+    font-size: 14px;
+}
+
+.badge-open li:after {
+    clear: both;
+}
+
+.btn-u {
+    border: 0;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: 400;
+    padding: 6px 13px;
+    margin-bottom: 15px;
+    position: relative;
+    background: #003865;
+    white-space: nowrap;
+    display: inline-block;
+    text-decoration: none;
+    -webkit-transition: all 0.6s ease-in-out;
+    -moz-transition: all 0.6s ease-in-out;
+    -o-transition: all 0.6s ease-in-out;
+    transition: all 0.6s ease-in-out;
+}
+
+li.subtotal span {
+    color: #777;
+    font-size: 18px;
+    font-weight: 200;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.cc-selector input{
+    margin:0;padding:0;
+    -webkit-appearance:none;
+       -moz-appearance:none;
+            appearance:none;
+}
+.cc-selector input:active +.drinkcard-cc
+{
+    opacity: 1;
+    border:4px solid #169D4B;
+}
+.cc-selector input:checked +.drinkcard-cc{
+    -webkit-filter: none;
+    -moz-filter: none;
+    filter: none;
+    border:4px solid #E78092;
+}
+.drinkcard-cc{
+    cursor:pointer;
+    background-size:contain;
+    background-repeat:no-repeat;
+    display:inline-block;
+    width:272px;height:140px;
+    -webkit-transition: all 100ms ease-in;
+    -moz-transition: all 100ms ease-in;
+    transition: all 100ms ease-in;
+    -webkit-filter:opacity(.8);
+    -moz-filter:opacity(.8);
+    filter:opacity(.8);
+    transition: all .6s ease-in-out;
+    border:4px solid transparent;
+    border-radius:5px !important;
+}
+.drinkcard-cc:hover{
+    -webkit-filter:opacity(1);
+    -moz-filter: opacity(1);
+    filter:opacity(1);
+    transition: all .6s ease-in-out;
+    border:4px solid #E78092;
+            
+}
+
+.box-border {
+    border: 1px solid #ddd;
+    border-radius: 4px !important;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
+
+.content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+ul.register-checkbox li {
+    float: left !important;
+    width: 100px;
+    margin: 0 !important;
+}
+
+.sky-form .radio, .sky-form .checkbox {
+    margin-bottom: 4px;
+    padding-left: 27px;
+    font-size: 15px;
+    line-height: 10px;
+    color: #404040;
+    cursor: pointer;
+}
+
+.sky-form .input, .sky-form .select, 
+.sky-form .textarea, .sky-form .radio, 
+.sky-form .checkbox, .sky-form .toggle, .sky-form .button {
+    position: relative;
+    display: block;
+}
+.sky-form .icon-append, .sky-form .icon-prepend {
+    color: #e67c8e;
+}
+
+.sky-form .icon-append {
+    right: 1px;
+    padding: 0 3px;
+    min-width: 34px;
+}
+.sky-form .icon-append, .sky-form .icon-prepend {
+    top: 1px;
+    height: 32px;
+    font-size: 14px;
+    line-height: 33px;
+    background: inherit;
+}
+.sky-form .input input, .sky-form .select select, .sky-form .textarea textarea, .sky-form .radio i, .sky-form .checkbox i, .sky-form .toggle i, .sky-form .icon-append, .sky-form .icon-prepend {
+    border-color: #E67C8E;
+}
+.sky-form .icon-append {
+    right: 5px;
+    padding-left: 3px;
+    border-left-width: 1px;
+    border-left-style: solid;
+}
+.sky-form .icon-append, .sky-form .icon-prepend {
+    position: absolute;
+    top: 5px;
+    width: 29px;
+    height: 29px;
+    font-size: 15px;
+    line-height: 29px;
+    text-align: center;
+}
+.sky-form .input .icon-append + input, .sky-form .textarea .icon-append + textarea {
+    padding-right: 46px;
+    border-radius: 4px !important;
+}
+.sky-form .input input, .sky-form .select select, .sky-form .textarea textarea, .sky-form .radio i, .sky-form .checkbox i, .sky-form .toggle i, .sky-form .icon-append, .sky-form .icon-prepend {
+    border-color: #E67C8E;
+}
+.sky-form .input input, .sky-form .select select, .sky-form .textarea textarea {
+    border-width: 1px;
+    font-size: 14px;
+    color: #404040;
+}
+.sky-form .input input {
+    height: 34px;
+    padding: 6px 12px;
+}
+.sky-form .input input, .sky-form .select select, .sky-form .textarea textarea {
+    display: block;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+    height: 39px;
+    padding: 8px 10px;
+    outline: none;
+    border-width: 2px;
+    border-style: solid;
+    background: #fff;
+    font: 15px/19px 'Roboto', Helvetica, Arial, sans-serif;
+    color: #000;
+    appearance: normal;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    font-weight: 300;
+}
+.sky-form .button {
+    background: #003865;
+    cursor: pointer;
+}
+.sky-form .button {
+    float: right;
+    height: 39px;
+    overflow: hidden;
+    margin: 10px 0 0 20px;
+    padding: 0 25px;
+    outline: none;
+    border: 0;
+    font: 300 15px/39px 'Open Sans', Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+.sky-form .label {
+    border-radius: 0;
+    font-size: 100%;
+    text-align: left;
+    white-space: normal;
+    color: inherit;
+}
+.sky-form .label {
+    display: block;
+    margin-bottom: 6px;
+    line-height: 19px;
+    font-weight: 400;
+}
+.sky-form header {
+    color: inherit;
+    display: block;
+    font-size: 20px;
+    /*background: #fff;*/
+    font-weight: 300;
+    padding: 8px 30px;
+}
+.sky-form header {
+    display: block;
+    padding: 20px 30px;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    /*background: rgba(248,248,248,.9);*/
+    font-size: 25px;
+    font-weight: 300;
+    color: #232323;
+}

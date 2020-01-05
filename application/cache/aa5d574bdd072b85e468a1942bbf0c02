@@ -1,0 +1,1853 @@
+a:2:{s:6:"expire";d:1486064167;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 200 OK";i:1;b:1;}i:1;a:2:{i:0;s:15:"HTTP/1.1 200 OK";i:1;b:1;}i:2;a:2:{i:0;s:44:"Last-Modified: Thu, 02 Feb 2017 19:35:37 GMT";i:1;b:1;}i:3;a:2:{i:0;s:50:"Cache-Control: no-store, no-cache, must-revalidate";i:1;b:1;}i:4;a:2:{i:0;s:40:"Cache-Control: post-check=0, pre-check=0";i:1;b:1;}i:5;a:2:{i:0;s:16:"Pragma: no-cache";i:1;b:1;}}}ENDCI---><!DOCTYPE html>
+<!--[if IE 8]> <html lang="th" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="th" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="th"> <!--<![endif]-->  
+<head>
+
+    <meta name="google-site-verification" content="9tKpQFOwbbxUksHqAr98ajm1bV23Ji5Kvh9PpYvWdcI" />
+    <!-- Meta -->
+    <meta charset="UTF-8">
+    <meta name="description" content="Heelcare รองเท้าเพื่อสุขภาพสำหรับผู้หญิงโดยเฉพาะ มีหลายรุ่น หลายสีให้เลือก เพื่อสุขภาพที่ดีสำหรับเท้าของคุณ กรุณาเลือกรุ่นที่เหมาะกับกับโครงสร้างเท้าของแต่ละคน  ?>">
+    <meta name="keywords" content="heelcare, รองเท้าเพื่อสุขภาพ, รองเท้าสุขภาพ">
+    <meta name="author" content="Heelcare ">
+    <meta name="revisit-after" content="2 days">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="expires" content="Mon, 10 Dec 2001 00:00:00 GMT" />
+    <title>My Cart | Heelcare Thailand</title>
+    <style>
+		html, body{
+			overflow: hidden;
+			height: 100%;
+		}
+	</style>
+
+    
+    
+        
+    <!-- Favicon -->
+        <link rel="shortcut icon" href="http://localhost/heelcare/uploads/others/favicon.png">
+
+    <!-- CSS Global Compulsory -->
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/jasny-bootstrap/css/jasny-bootstrap.min.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/shop.style.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/style.css">
+
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/app.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/ie8.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/blocks.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/plugins.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/plugins/animate.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/plugins/box-shadows.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/headers/header-purple.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/headers/header-blue.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/headers/header-green.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/headers/header-grey.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/headers/header-aqua.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/headers/header-pink.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/headers/header-ztopy.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/footers/footer-purple.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/footers/footer-blue.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/footers/footer-green.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/footers/footer-grey.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/footers/footer-aqua.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/footers/footer-pink.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/footers/footer-ztopy.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/jquery-steps/css/custom-jquery.steps.css">
+
+	
+    <!-- CSS Implementing Plugins -->
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/line-icons/line-icons.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/scrollbar/src/perfect-scrollbar.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/owl-carousel/owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/revolution-slider/rs-plugin/css/settings.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/pages/profile.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/app.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/pages/page_contact.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/flexslider/flexslider.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/noUiSlider/jquery.nouislider.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/plugins.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/parallax-slider/css/parallax-slider.css">
+    <!-- CSS Page Style -->    
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/pages/page_log_reg_v2.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/pages/log-reg-v3.css">
+    
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/ladda-buttons/css/custom-lada-btn.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/plugins/hover-effect/css/custom-hover-effects.css"> 
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/sky-forms/version-2.0.1/css/custom-sky-forms.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/zoompic/multizoom.css">
+
+    <!-- CSS Theme -->
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/theme-colors/default.css">
+
+    <!-- CSS Customization -->
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/css/custom.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/css3-animate/css/animations.css">
+
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/noUiSlider/jquery.nouislider.css">
+
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/ionrangeslider/css/normalize.css" />
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/ionrangeslider/css/ion.rangeSlider.css" />
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/ionrangeslider/css/ion.rangeSlider.skinModern.css" />
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/fancybox/source/jquery.fancybox.css">     
+
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/js/share/jquery.share.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/zoome/css/zoome-min.css" />
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/layerslider/assets/css/doc.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/image-hover/css/img-hover.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/bootstrap-datepicker/css/datepicker.css">
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/glasscase/css/glasscase.css">
+
+    
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/jquery-ui/jquery-ui.min.css" />
+
+    <script src="http://localhost/heelcare/template/front/assets/plugins/jquery/jquery.min.js"></script>
+    <script src="http://localhost/heelcare/template/front/assets/plugins/jquery-ui/jquery-ui.min.js"></script>
+    <script src="http://localhost/heelcare/template/front/assets/js/share/jquery.share.js"></script>
+    <script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/zoome/zoome.js"></script>
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700,900' rel='stylesheet' type='text/css'>
+	<link href="http://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,300,400italic,400,600italic,600,700italic,700,800italic,800" rel="stylesheet" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
+
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="http://localhost/heelcare/template/front/assets/plugins/css3-animate/css/animations-ie-fix.css">
+    <![endif]-->
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-82047906-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+
+</head>
+<div id="preloader">
+	<center>
+<style>#circularG {
+	position:relative;
+	width:100px;
+	height:100px
+}
+.circularG {
+	position:absolute;
+	background-color: #E67C8E;
+	width:23px;
+	height:23px;
+	-moz-border-radius:15px !important;
+	-moz-animation-name:bounce_circularG;
+	-moz-animation-duration:1.2s;
+	-moz-animation-iteration-count:infinite;
+	-moz-animation-direction:normal;
+	-webkit-border-radius:15px !important;
+	-webkit-animation-name:bounce_circularG;
+	-webkit-animation-duration:1.2s;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-animation-direction:normal;
+	-ms-border-radius:15px !important;
+	-ms-animation-name:bounce_circularG;
+	-ms-animation-duration:1.2s;
+	-ms-animation-iteration-count:infinite;
+	-ms-animation-direction:normal;
+	-o-border-radius:15px !important;
+	-o-animation-name:bounce_circularG;
+	-o-animation-duration:1.2s;
+	-o-animation-iteration-count:infinite;
+	-o-animation-direction:normal;
+	border-radius:15px !important;
+	animation-name:bounce_circularG;
+	animation-duration:1.2s;
+	animation-iteration-count:infinite;
+	animation-direction:normal;
+}
+#circularG_1 {
+	left:0;
+	top:39px;
+	-moz-animation-delay:0.45s;
+	-webkit-animation-delay:0.45s;
+	-ms-animation-delay:0.45s;
+	-o-animation-delay:0.45s;
+	animation-delay:0.45s;
+}
+#circularG_2 {
+	left:11px;
+	top:11px;
+	-moz-animation-delay:0.6s;
+	-webkit-animation-delay:0.6s;
+	-ms-animation-delay:0.6s;
+	-o-animation-delay:0.6s;
+	animation-delay:0.6s;
+}
+#circularG_3 {
+	top:0;
+	left:39px;
+	-moz-animation-delay:0.75s;
+	-webkit-animation-delay:0.75s;
+	-ms-animation-delay:0.75s;
+	-o-animation-delay:0.75s;
+	animation-delay:0.75s;
+}
+#circularG_4 {
+	right:11px;
+	top:11px;
+	-moz-animation-delay:0.9s;
+	-webkit-animation-delay:0.9s;
+	-ms-animation-delay:0.9s;
+	-o-animation-delay:0.9s;
+	animation-delay:0.9s;
+}
+#circularG_5 {
+	right:0;
+	top:39px;
+	-moz-animation-delay:1.05s;
+	-webkit-animation-delay:1.05s;
+	-ms-animation-delay:1.05s;
+	-o-animation-delay:1.05s;
+	animation-delay:1.05s;
+}
+#circularG_6 {
+	right:11px;
+	bottom:11px;
+	-moz-animation-delay:1.2s;
+	-webkit-animation-delay:1.2s;
+	-ms-animation-delay:1.2s;
+	-o-animation-delay:1.2s;
+	animation-delay:1.2s;
+}
+#circularG_7 {
+	left:39px;
+	bottom:0;
+	-moz-animation-delay:1.35s;
+	-webkit-animation-delay:1.35s;
+	-ms-animation-delay:1.35s;
+	-o-animation-delay:1.35s;
+	animation-delay:1.35s;
+}
+#circularG_8 {
+	left:11px;
+	bottom:11px;
+	-moz-animation-delay:1.5s;
+	-webkit-animation-delay:1.5s;
+	-ms-animation-delay:1.5s;
+	-o-animation-delay:1.5s;
+	animation-delay:1.5s;
+}
+@-moz-keyframes bounce_circularG {
+	0% {
+		-moz-transform:scale(1)
+	}
+	100% {
+		-moz-transform:scale(.3)
+	}
+}
+@-webkit-keyframes bounce_circularG {
+	0% {
+		-webkit-transform:scale(1)
+	}
+	100% {
+		-webkit-transform:scale(.3)
+	}
+}
+@-ms-keyframes bounce_circularG {
+	0% {
+		-ms-transform:scale(1)
+	}
+	100% {
+		-ms-transform:scale(.3)
+	}
+}
+@-o-keyframes bounce_circularG {
+	0% {
+		-o-transform:scale(1)
+	}
+	100% {
+		-o-transform:scale(.3)
+	}
+}
+@keyframes bounce_circularG {
+	0% {
+		transform:scale(1)
+	}
+	100% {
+		transform:scale(.3)
+	}
+}
+</style>
+
+<div id="circularG" style="margin-top:20% !important;">
+	<div id="circularG_1" class="circularG">
+	</div>
+	<div id="circularG_2" class="circularG">
+	</div>
+	<div id="circularG_3" class="circularG">
+	</div>
+	<div id="circularG_4" class="circularG">
+	</div>
+	<div id="circularG_5" class="circularG">
+	</div>
+	<div id="circularG_6" class="circularG">
+	</div>
+	<div id="circularG_7" class="circularG">
+	</div>
+	<div id="circularG_8" class="circularG">
+	</div>
+</div>
+</center>
+</div>
+
+<style>
+#preloader {
+		height:100%;
+		width:100%;
+		background-color:white;
+		position:fixed;
+		top:0px;
+		left:0px;
+		overflow:hidden;
+		z-index: 9999999;
+}
+</style><body class="header-fixed">
+<div class="wrapper animations">
+    <div class="header-ztopy header-sticky header-fixed animatedParent">
+        <div class="topbar-v3 animated fadeInDown slowest">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <!-- Topbar Navigation -->
+                        <ul class="left-topbar">
+                            <li>
+                                                                <a>Language (Thai)</a>
+                                <ul class="language">
+                                                                                <li  >
+                                                <a href="http://localhost/heelcare/index.php/home/set_language/english">
+                                                    english                                                                                                    </a>
+                                            </li>
+                                                                                        <li class="active" >
+                                                <a href="http://localhost/heelcare/index.php/home/set_language/Thai">
+                                                    Thai                                                                                                            <i class="fa fa-check"></i>
+                                                                                                    </a>
+                                            </li>
+                                                                            </ul>
+                            </li>
+                        </ul><!--/end left-topbar-->
+                    </div>
+                    <div class="col-sm-6">
+                        <ul class="list-inline right-topbar pull-right" id="loginsets">
+                        </ul>
+                    </div>
+                </div>
+            </div><!--/container-->
+
+        </div>
+        <!-- End Topbar v3 -->
+
+        <div class="ztopy-header animated fadeInDown slowest">
+            <div class="container">
+                <div class="col-md-3 hidden-xs">
+                    <div class="ztopy-logo">
+                        <a href="http://localhost/heelcare/index.php/home/">
+                            <img id="logo-header" src="http://localhost/heelcare/uploads/logo_image/logo_7.png"
+                                 alt="Logo"
+                                 class="img-responsive" style="width: 100%">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-9 col-xs-12">
+                        <div class="col-md-4 col-xs-12 header-top-margin">
+                            <div class="box-header">
+                                <div class="header-image push"><img
+                                        src="http://localhost/heelcare/template/front/assets/img/header-img1.png" alt=""
+                                        class=""></div>
+                                <div class="header-text">
+                                    <h3 style="text-transform: uppercase;"><a href="http://localhost/heelcare/index.php/home/storeLocations">
+                                            สาขา Heelcare                                        </a></h3>
+                                    <p>Find Us สาขา Heelcare</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-xs-12 header-top-margin">
+                            <div class="box-header">
+                                <div class="header-image push">
+                                    <a href="https://line.me/R/ti/p/%40spp9501f%22" target="_blank">
+                                    <img src="http://localhost/heelcare/template/front/assets/img/line.png" alt="line">
+                                    </a>
+                                </div>
+                                <div class="header-text">
+                                    <h3>
+                                        <a href="https://line.me/R/ti/p/%40spp9501f%22" target="_blank">
+                                            line: @heelcarethailand
+                                        </a>
+                                    </h3>
+                                    <p class="">contact: 091-890-3797</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-xs-12 header-top-margin">
+                            <div class="box-header col2">
+                                <div class="header-image push"><img
+                                        src="http://localhost/heelcare/template/front/assets/img/header-img3.png" alt=""
+                                        class=""></div>
+                                <div class="header-text">
+                                    <h3 style="text-transform: uppercase;">
+                                            <a href="http://localhost/heelcare/index.php/home/contact/">
+                                                ติดต่อเรา                                            </a>
+                                        </h3>
+                                    <p class="">TEL. 02-689-8345</p>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <!-- Navbar -->
+        <div class="navbar navbar-default mega-menu" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse"
+                            data-target=".navbar-responsive-collapse">
+                        <span class="sr-only">Toggle Navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand visible-xs" href="http://localhost/heelcare/index.php/home/">
+                        <img src="http://localhost/heelcare/uploads/logo_image/logo_7.png"
+                             alt="Logo"
+                             class="img-responsive">
+                    </a>
+                </div>
+
+                <ul class="list-inline shop-badge badge-lists badge-icons pull-right" id="added_list">
+                </ul>
+                <div class="collapse navbar-collapse navbar-responsive-collapse">
+                    <!-- Badge -->
+                    <!-- End Badge -->
+                    <ul class="nav navbar-nav">
+                        <!-- Home -->
+                        <li>
+                            <a href="http://localhost/heelcare/index.php/home/" class="dropdown-toggle">
+                                หน้าแรก                            </a>
+                        </li>
+                        <!-- End Home -->
+                        <!-- Categories-->
+                        <li class="dropdown mega-menu-fullwidth">
+                            <a href="javascript:void(0);" class="dropdown-toggle" data-hover="dropdown"
+                               data-toggle="dropdown">
+                                หมวดหมู่                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <div class="mega-menu-content">
+                                        <div class="container">
+                                            <div class="row equal-height mega-menu">
+                                                                                                    <div class="col-md-2 col-sm-12 equal-height-in">
+                                                        <h3 class="mega-menu-heading">
+                                                            <a href="http://localhost/heelcare/index.php/home/category/1/">
+                                                                SANDAL                                                            </a>
+                                                        </h3>
+                                                        <ul class="list-unstyled equal-height-list">
+                                                                                                                            <li>
+                                                                    <a href="http://localhost/heelcare/index.php/home/category/1/7/">
+                                                                        COMING SOON                                                                    </a>
+                                                                </li>
+                                                                                                                        </ul>
+                                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-12 equal-height-in">
+                                                        <h3 class="mega-menu-heading">
+                                                            <a href="http://localhost/heelcare/index.php/home/category/2/">
+                                                                PUMP                                                            </a>
+                                                        </h3>
+                                                        <ul class="list-unstyled equal-height-list">
+                                                                                                                            <li>
+                                                                    <a href="http://localhost/heelcare/index.php/home/category/2/4/">
+                                                                        หัวกลม                                                                    </a>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="http://localhost/heelcare/index.php/home/category/2/5/">
+                                                                        หัวเหลี่ยม                                                                    </a>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="http://localhost/heelcare/index.php/home/category/2/6/">
+                                                                        หัวแหลม                                                                    </a>
+                                                                </li>
+                                                                                                                        </ul>
+                                                    </div>
+                                                                                                        <div class="col-md-2 col-sm-12 equal-height-in">
+                                                        <h3 class="mega-menu-heading">
+                                                            <a href="http://localhost/heelcare/index.php/home/category/10/">
+                                                                COMFORT                                                            </a>
+                                                        </h3>
+                                                        <ul class="list-unstyled equal-height-list">
+                                                                                                                            <li>
+                                                                    <a href="http://localhost/heelcare/index.php/home/category/10/1/">
+                                                                        ส้นสูง 1 นิ้ว                                                                    </a>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="http://localhost/heelcare/index.php/home/category/10/2/">
+                                                                        ส้นสูง 2 นิ้ว (HOT)                                                                    </a>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="http://localhost/heelcare/index.php/home/category/10/3/">
+                                                                        ส้นสูง 3 นิ้ว                                                                    </a>
+                                                                </li>
+                                                                                                                        </ul>
+                                                    </div>
+                                                                                                </div><!--/end row-->
+                                        </div><!--/end container-->
+                                    </div><!--/end mega menu content-->
+                                </li>
+                            </ul><!--/end dropdown-menu-->
+                        </li>
+                        <!-- END Categories-->
+
+                        <!-- Promotion-->
+                        <li class="dropdown mega-menu-fullwidth">
+                            <a href="javascript:void(0);" class="dropdown-toggle" data-hover="dropdown"
+                               data-toggle="dropdown">
+                                โปรโมชั่น                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <div class="mega-menu-content">
+                                        <div class="container">
+                                            <div class="row">
+
+                                                                                                    <div class="col-md-3 md-margin-bottom-30">
+                                                        <div class="overflow-h">
+                                                            <a href="http://localhost/heelcare/index.php/home/product_view/64/Comfort-2-CodeHF5685PP">
+                                                                <div class="illustration-v1 illustration-img1">
+                                                                    <div class="illustration-bg"
+                                                                         style="background:url('http://localhost/heelcare/uploads/product_image/product_64_1.jpg') no-repeat center center; background-size: 100% auto;">
+                                                                        <div class="illustration-ads ad-details-v1">
+                                                                            <h4 style="background:rgba(205, 168, 168, 0.6); text-decoration:none; padding:3px; color:#fff;">Comfort ส้นสูง 2 นิ้ว Code:HF5685PP</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                                                                        <div class="col-md-3 md-margin-bottom-30">
+                                                        <div class="overflow-h">
+                                                            <a href="http://localhost/heelcare/index.php/home/product_view/55/Comfort-2-CodeHF567800">
+                                                                <div class="illustration-v1 illustration-img1">
+                                                                    <div class="illustration-bg"
+                                                                         style="background:url('http://localhost/heelcare/uploads/product_image/product_55_1.jpg') no-repeat center center; background-size: 100% auto;">
+                                                                        <div class="illustration-ads ad-details-v1">
+                                                                            <h4 style="background:rgba(205, 168, 168, 0.6); text-decoration:none; padding:3px; color:#fff;">Comfort ส้นสูง 2 นิ้ว Code:HF567800</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                                                                    <div class="col-md-3 md-margin-bottom-30">
+                                                    <div class="overflow-h">
+                                                        <a href="http://localhost/heelcare/index.php/home/promotion_item">
+                                                            <div class="illustration-v1 illustration-img1">
+                                                                <div class="illustration-bg">
+                                                                    <div class="illustration-ads ad-details-v1">
+                                                                        <div
+                                                                            class="btn-u btn-u-sea">See More                                                                            <i class="fa fa-arrow-circle-right"></i>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div><!--/end row-->
+                                        </div><!--/end container-->
+                                    </div><!--/end mega menu content-->
+                                </li>
+                            </ul><!--/end dropdown-menu-->
+                        </li>
+                        <!-- End Promotion-->
+
+                        <!-- Sales Activities-->
+<!--                        <li>-->
+<!--                            <a href="--><!--index.php/home/" class="dropdown-toggle">-->
+<!--                                --><!--                            </a>-->
+<!--                        </li>-->
+                        <!-- End Sales Activities-->
+
+                        <!-- Sales ordering-->
+                        <li>
+                            <a href="http://localhost/heelcare/index.php/home/policies/1" class="dropdown-toggle">
+                                การสั่งซื้อ                            </a>
+                        </li>
+                        <!-- End Sales ordering-->
+
+                        <!-- Sales payment-->
+                        <li>
+                            <a href="http://localhost/heelcare/index.php/home/policies/7" class="dropdown-toggle">
+                                การจ่ายเงิน                            </a>
+                        </li>
+                        <!-- End Sales payment-->
+
+                        <!-- Sales shipping-->
+                        <li>
+                            <a href="http://localhost/heelcare/index.php/home/policies/2" class="dropdown-toggle">
+                                การจัดส่ง                            </a>
+                        </li>
+                        <!-- End Sales shipping-->
+
+
+                        <!-- Sales shipping-->
+                        <li>
+                            <a href="http://localhost/heelcare/index.php/home/confirm_payment/" class="dropdown-toggle">
+                                แจ้งโอนเงิน                            </a>
+                        </li>
+                        <!-- End Sales shipping-->
+
+
+
+
+
+
+                        <li class="dropdown">
+                            <a href="javascript:void(0);" class="dropdown-toggle" data-hover="dropdown"
+                               data-toggle="dropdown">
+                                อื่น ๆ                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="http://localhost/heelcare/index.php/home/policies/8" class="dropdown-toggle">
+                                        การรับประกันสินค้าและรับซ่อมสินค้า
+                                    </a>
+                                </li>
+                                                                    <!-- Home -->
+                                    <li class="dropdown">
+                                        <a href="http://localhost/heelcare/index.php/home/page/QUALITY_TECHNOLOGY"
+                                           class="dropdown-toggle">
+                                            QUALITY & TECHNOLOGY                                        </a>
+                                    </li>
+                                    <!-- End Home -->
+                                                                        <!-- Home -->
+                                    <li class="dropdown">
+                                        <a href="http://localhost/heelcare/index.php/home/page/ABOUT_US"
+                                           class="dropdown-toggle">
+                                            เกี่ยวกับเรา                                        </a>
+                                    </li>
+                                    <!-- End Home -->
+                                                                    <!-- Sales Activities-->
+                                <li>
+                                    <a href="http://localhost/heelcare/index.php/home/gallery/" class="dropdown-toggle">
+                                        อัลบั้มรูป                                    </a>
+                                </li>
+                                <!-- End Sales Activities-->
+                                <!-- Event & Activity-->
+                                <li>
+                                    <a href="http://localhost/heelcare/index.php/home/event_activity" class="dropdown-toggle">
+                                        Event & Activity                                    </a>
+                                </li>
+                                <!-- End Event & Activity-->
+
+                                <li>
+                                    <a href="http://localhost/heelcare/index.php/home/storeLocations/" class="dropdown-toggle">
+                                        สาขา                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <!-- Contact -->
+                        <li class="dropdown">
+
+                            <div  style="padding-top: 25px;">
+                                <form action="http://localhost/heelcare/index.php/home/search" class="sky-form" method="get" enctype="multipart/form-data" style="border:none !important;" accept-charset="utf-8">
+                                <input type="text" name="textSearch" class="form-control" placeholder="Search Product" value="" />
+                                </form>
+                            </div>
+
+                        </li>
+                        <!-- End Contact -->
+
+                    </ul>
+                </div><!--/navbar-collapse-->
+            </div>
+        </div>
+        <!-- End Navbar -->
+    </div>
+    <!--=== End Header style1 ===-->
+<!--=== Content Medium Part ===-->
+<div class="content-md margin-bottom-30">
+    <div class="container">
+        <form action="http://localhost/heelcare/index.php/home/cart_finish/go" class="shopping-cart" method="post" enctype="multipart/form-data" id="cart_form" accept-charset="utf-8">
+        <div>
+            <div class="header-tags">
+                <div class="overflow-h">
+                    <h2>Shopping Cart</h2>
+                    <p>Review & Edit Your Product</p>
+                    <i class="rounded-x fa fa-check"></i>
+                </div>
+            </div>
+            <section>
+                <div class="table-responsive cart_list">
+                    <table class="table" style="border: 1px solid #ddd;">
+                        <thead>
+                        <tr>
+                            <td>Product</td>
+                            <td>Choices</td>
+                            <td>Price</td>
+                            <td>Qty</td>
+                            <td>Total</td>
+                            <td style="text-align:right !important;">Option</td>
+                        </tr>
+                        </thead>
+                        <tbody>
+
+                        
+                            <tr data-rowid="44f683a84163b3523afe57c2e008bc8c">
+                                <td class="product-in-table">
+                                    <img class="img-responsive" src="http://localhost/heelcare/uploads/product_image/product_62_1_thumb.jpg" alt="">
+                                    <div class="product-it-in">
+                                        <h3>Comfort ส้นสูง 2 นิ้ว Code:HF5684DK</h3>
+                                    </div>
+                                </td>
+                                <td class="shop-product">
+                                                                                                            <a href="http://localhost/heelcare/index.php/home/product_view/62/Comfort-2-CodeHF5684DK">Change Choices</a>
+                                </td>
+                                <td class="pric">฿2152.00</td>
+                                <td>
+                                    <button type='button' class="quantity-button minus" value='minus'>-</button>
+                                    <input type='text' disabled step='1' class="quantity-field quantity_field"
+                                           data-rowid="44f683a84163b3523afe57c2e008bc8c" data-limit='no'
+                                           value="1" id='qty1' onblur="check_ok(this);"/>
+                                    <button type='button' class="quantity-button plus" value='plus'>+</button>
+                                    <span class="button limit" style="display:none;"></span>
+                                </td>
+                                <td class="shop-red sub_total">฿2152.00</td>
+                                <td class="text-center">
+                                    <button type="button" class="close">
+                                        <i class="fa fa-trash"></i>
+                                    </button>
+                                </td>
+                            </tr>
+                        
+                            <tr data-rowid="d645920e395fedad7bbbed0eca3fe2e0">
+                                <td class="product-in-table">
+                                    <img class="img-responsive" src="http://localhost/heelcare/uploads/product_image/product_40_1_thumb.jpg" alt="">
+                                    <div class="product-it-in">
+                                        <h3>Comfort ส้นสูง 3 นิ้ว Code:HF5692AA</h3>
+                                    </div>
+                                </td>
+                                <td class="shop-product">
+                                                                                                            <a href="http://localhost/heelcare/index.php/home/product_view/40/Comfort-3-CodeHF5692AA">Change Choices</a>
+                                </td>
+                                <td class="pric">฿1610.00</td>
+                                <td>
+                                    <button type='button' class="quantity-button minus" value='minus'>-</button>
+                                    <input type='text' disabled step='1' class="quantity-field quantity_field"
+                                           data-rowid="d645920e395fedad7bbbed0eca3fe2e0" data-limit='no'
+                                           value="1" id='qty1' onblur="check_ok(this);"/>
+                                    <button type='button' class="quantity-button plus" value='plus'>+</button>
+                                    <span class="button limit" style="display:none;"></span>
+                                </td>
+                                <td class="shop-red sub_total">฿1610.00</td>
+                                <td class="text-center">
+                                    <button type="button" class="close">
+                                        <i class="fa fa-trash"></i>
+                                    </button>
+                                </td>
+                            </tr>
+                        
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <script>
+                var add_to_cart = 'Add To Cart';
+                var base_url = 'http://localhost/heelcare/';
+                set_cart_form();
+            </script>
+            <!--            <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=false"></script>-->
+            <script src="http://localhost/heelcare/template/front/assets/js/custom/cart.js"></script>
+
+            <div class="header-tags">
+                <div class="overflow-h">
+                    <h2>การจัดส่ง</h2>
+                    <p>Shipping And Address Info</p>
+                    <i class="rounded-x fa fa-home"></i>
+                </div>
+            </div>
+            <section class="billing-info">
+                <div class="row">
+                    <div class="col-md-12 md-margin-bottom-40">
+                        <h2 class="title-type">ที่อยู่การจัดส่ง</h2>
+                        <div class="billing-info-inputs checkbox-list" style="padding-left: 30px; padding-right: 30px;">
+                            <div class="row">
+                                                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <input id="name" type="text"
+                                                   placeholder="ชื่อ" name="firstname"
+                                                   class="form-control required">
+                                            <input id="email" type="text"
+                                                   placeholder="อีเมล" name="email"
+                                                   class="form-control  email required">
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <input id="surname" type="text"
+                                                   placeholder="นามสกุล" name="lastname"
+                                                   class="form-control required">
+                                            <input id="phone" type="tel" placeholder="Phone"
+                                                   name="phone" class="form-control required">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <input id="zip" type="text"
+                                                   placeholder="รหัสไปรษณี" name="zip"
+                                                   class="form-control address required postal_chk">
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <input id="city" type="text" placeholder="City"
+                                                   name="city" class="form-control address required">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-12">
+                                            <textarea id="address_1" type="text"
+                                                      placeholder="Address" name="address1"
+                                                      class="form-control address required"></textarea>
+                                        </div>
+                                    </div>
+                                    <!--                                        <input id="address_2"  type="text" placeholder="--><!--" name="address2" class="form-control address required">-->
+
+                                    <div class="row" style="margin-top: 10px;">
+                                        <div class="col-sm-12">
+                                            <select class="form-control" name="province" id="province">
+                                                                                                    <option value="1">กรุงเทพมหานคร                                                           / Bangkok</option>
+                                                                                                        <option value="2">สมุทรปราการ                                                           / Samut Prakan</option>
+                                                                                                        <option value="3">นนทบุรี                                                           / Nonthaburi</option>
+                                                                                                        <option value="4">ปทุมธานี                                                           / Pathum Thani</option>
+                                                                                                        <option value="5">พระนครศรีอยุธยา                                                           / Phra Nakhon Si Ayutthaya</option>
+                                                                                                        <option value="6">อ่างทอง                                                           / Ang Thong</option>
+                                                                                                        <option value="7">ลพบุรี                                                           / Loburi</option>
+                                                                                                        <option value="8">สิงห์บุรี                                                           / Sing Buri</option>
+                                                                                                        <option value="9">ชัยนาท                                                           / Chai Nat</option>
+                                                                                                        <option value="10">สระบุรี                                                        / Saraburi</option>
+                                                                                                        <option value="11">ชลบุรี                                                           / Chon Buri</option>
+                                                                                                        <option value="12">ระยอง                                                           / Rayong</option>
+                                                                                                        <option value="13">จันทบุรี                                                           / Chanthaburi</option>
+                                                                                                        <option value="14">ตราด                                                           / Trat</option>
+                                                                                                        <option value="15">ฉะเชิงเทรา                                                           / Chachoengsao</option>
+                                                                                                        <option value="16">ปราจีนบุรี                                                           / Prachin Buri</option>
+                                                                                                        <option value="17">นครนายก                                                           / Nakhon Nayok</option>
+                                                                                                        <option value="18">สระแก้ว                                                           / Sa Kaeo</option>
+                                                                                                        <option value="19">นครราชสีมา                                                           / Nakhon Ratchasima</option>
+                                                                                                        <option value="20">บุรีรัมย์                                                           / Buri Ram</option>
+                                                                                                        <option value="21">สุรินทร์                                                           / Surin</option>
+                                                                                                        <option value="22">ศรีสะเกษ                                                           / Si Sa Ket</option>
+                                                                                                        <option value="23">อุบลราชธานี                                                           / Ubon Ratchathani</option>
+                                                                                                        <option value="24">ยโสธร                                                           / Yasothon</option>
+                                                                                                        <option value="25">ชัยภูมิ                                                           / Chaiyaphum</option>
+                                                                                                        <option value="26">อำนาจเจริญ                                                           / Amnat Charoen</option>
+                                                                                                        <option value="27">หนองบัวลำภู                                                           / Nong Bua Lam Phu</option>
+                                                                                                        <option value="28">ขอนแก่น                                                           / Khon Kaen</option>
+                                                                                                        <option value="29">อุดรธานี                                                           / Udon Thani</option>
+                                                                                                        <option value="30">เลย                                                           / Loei</option>
+                                                                                                        <option value="31">หนองคาย                                                           / Nong Khai</option>
+                                                                                                        <option value="32">มหาสารคาม                                                           / Maha Sarakham</option>
+                                                                                                        <option value="33">ร้อยเอ็ด                                                           / Roi Et</option>
+                                                                                                        <option value="34">กาฬสินธุ์                                                           / Kalasin</option>
+                                                                                                        <option value="35">สกลนคร                                                           / Sakon Nakhon</option>
+                                                                                                        <option value="36">นครพนม                                                           / Nakhon Phanom</option>
+                                                                                                        <option value="37">มุกดาหาร                                                           / Mukdahan</option>
+                                                                                                        <option value="38">เชียงใหม่                                                           / Chiang Mai</option>
+                                                                                                        <option value="39">ลำพูน                                                           / Lamphun</option>
+                                                                                                        <option value="40">ลำปาง                                                           / Lampang</option>
+                                                                                                        <option value="41">อุตรดิตถ์                                                           / Uttaradit</option>
+                                                                                                        <option value="42">แพร่                                                           / Phrae</option>
+                                                                                                        <option value="43">น่าน                                                           / Nan</option>
+                                                                                                        <option value="44">พะเยา                                                           / Phayao</option>
+                                                                                                        <option value="45">เชียงราย                                                           / Chiang Rai</option>
+                                                                                                        <option value="46">แม่ฮ่องสอน                                                           / Mae Hong Son</option>
+                                                                                                        <option value="47">นครสวรรค์                                                           / Nakhon Sawan</option>
+                                                                                                        <option value="48">อุทัยธานี                                                           / Uthai Thani</option>
+                                                                                                        <option value="49">กำแพงเพชร                                                           / Kamphaeng Phet</option>
+                                                                                                        <option value="50">ตาก                                                           / Tak</option>
+                                                                                                        <option value="51">สุโขทัย                                                           / Sukhothai</option>
+                                                                                                        <option value="52">พิษณุโลก                                                           / Phitsanulok</option>
+                                                                                                        <option value="53">พิจิตร                                                           / Phichit</option>
+                                                                                                        <option value="54">เพชรบูรณ์                                                           / Phetchabun</option>
+                                                                                                        <option value="55">ราชบุรี                                                           / Ratchaburi</option>
+                                                                                                        <option value="56">กาญจนบุรี                                                           / Kanchanaburi</option>
+                                                                                                        <option value="57">สุพรรณบุรี                                                           / Suphan Buri</option>
+                                                                                                        <option value="58">นครปฐม                                                           / Nakhon Pathom</option>
+                                                                                                        <option value="59">สมุทรสาคร                                                           / Samut Sakhon</option>
+                                                                                                        <option value="60">สมุทรสงคราม                                                           / Samut Songkhram</option>
+                                                                                                        <option value="61">เพชรบุรี                                                           / Phetchaburi</option>
+                                                                                                        <option value="62">ประจวบคีรีขันธ์                                                           / Prachuap Khiri Khan</option>
+                                                                                                        <option value="63">นครศรีธรรมราช                                                           / Nakhon Si Thammarat</option>
+                                                                                                        <option value="64">กระบี่                                                           / Krabi</option>
+                                                                                                        <option value="65">พังงา                                                           / Phangnga</option>
+                                                                                                        <option value="66">ภูเก็ต                                                           / Phuket</option>
+                                                                                                        <option value="67">สุราษฎร์ธานี                                                           / Surat Thani</option>
+                                                                                                        <option value="68">ระนอง                                                           / Ranong</option>
+                                                                                                        <option value="69">ชุมพร                                                           / Chumphon</option>
+                                                                                                        <option value="70">สงขลา                                                           / Songkhla</option>
+                                                                                                        <option value="71">สตูล                                                           / Satun</option>
+                                                                                                        <option value="72">ตรัง                                                           / Trang</option>
+                                                                                                        <option value="73">พัทลุง                                                           / Phatthalung</option>
+                                                                                                        <option value="74">ปัตตานี                                                           / Pattani</option>
+                                                                                                        <option value="75">ยะลา                                                           / Yala</option>
+                                                                                                        <option value="76">นราธิวาส                                                           / Narathiwat</option>
+                                                                                                        <option value="77">บึงกาฬ                                                        / buogkan</option>
+                                                    
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                    <div class="row" id="lnlat" style="display:none;">
+                                        <div class="col-sm-12">
+                                            <input id="langlat" type="text" placeholder="langitude - latitude"
+                                                   name="langlat" class="form-control required" readonly>
+                                        </div>
+                                    </div>
+
+                                    <!--                                        <div id="map-canvas" style="height:400px; margin-top: 15px;"></div>-->
+                                    
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-12 md-margin-bottom-40" style="margin-top: 15px">
+                        <div class="billing-info-inputs checkbox-list">
+                            <div class="form-group" style="margin-bottom: 0;">
+                                <div class="checkbox-ztopy">
+                                    <label>
+                                        <input type="checkbox" name="check_tax" class="checkbox_tax"
+                                               style="min-height: 0 !important;" value="tax">
+                                        ที่อยู่สำหรับใบเสร็จ/ใบกำกับภาษี
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="row add_tax">
+                                <div class="col-xs-12">
+                                    <div class="col-xs-12 well">
+                                        <div class="form-group">
+                                            <label for="first_name_tax"
+                                                   class="col-sm-2 control-label">ชื่อ</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control" name="first_name_tax"
+                                                       id="first_name_tax"
+                                                       placeholder="ชื่อ">
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="form-group">
+                                            <label for="last_name_tax"
+                                                   class="col-sm-2 control-label">นามสกุล</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control" name="last_name_tax"
+                                                       id="last_name_tax"
+                                                       placeholder="นามสกุล">
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="form-group">
+                                            <label for="address_tax"
+                                                   class="col-sm-2 control-label">Address</label>
+                                            <div class="col-sm-6">
+                                                <textarea class="form-control" name="address_tax"
+                                                          id="address_tax"></textarea>
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="form-group" style="margin-top: 15px;">
+                                            <label for="postal_code_tax"
+                                                   class="col-sm-2 control-label">Postal Code</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control" name="postal_code_tax"
+                                                       id="postal_code_tax"
+                                                       placeholder="Postal Code">
+                                            </div>
+                                            <div class="col-sm-4" style="color: #E0E0E0">
+                                                ทางเราจะทำการตรวจสอบเมืองและจังหวัดของคุณ
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="form-group">
+                                            <label for="city_tax"
+                                                   class="col-sm-2 control-label">City</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control" name="city_tax" id="city_tax"
+                                                       placeholder="City">
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="form-group">
+                                            <label for="province_tax"
+                                                   class="col-sm-2 control-label">จังหวัด</label>
+                                            <div class="col-sm-6">
+                                                <select class="form-control" name="province_tax" id="province_tax">
+                                                                                                            <option value="1">กรุงเทพมหานคร                                                               / Bangkok</option>
+                                                                                                                <option value="2">สมุทรปราการ                                                               / Samut Prakan</option>
+                                                                                                                <option value="3">นนทบุรี                                                               / Nonthaburi</option>
+                                                                                                                <option value="4">ปทุมธานี                                                               / Pathum Thani</option>
+                                                                                                                <option value="5">พระนครศรีอยุธยา                                                               / Phra Nakhon Si Ayutthaya</option>
+                                                                                                                <option value="6">อ่างทอง                                                               / Ang Thong</option>
+                                                                                                                <option value="7">ลพบุรี                                                               / Loburi</option>
+                                                                                                                <option value="8">สิงห์บุรี                                                               / Sing Buri</option>
+                                                                                                                <option value="9">ชัยนาท                                                               / Chai Nat</option>
+                                                                                                                <option value="10">สระบุรี                                                            / Saraburi</option>
+                                                                                                                <option value="11">ชลบุรี                                                               / Chon Buri</option>
+                                                                                                                <option value="12">ระยอง                                                               / Rayong</option>
+                                                                                                                <option value="13">จันทบุรี                                                               / Chanthaburi</option>
+                                                                                                                <option value="14">ตราด                                                               / Trat</option>
+                                                                                                                <option value="15">ฉะเชิงเทรา                                                               / Chachoengsao</option>
+                                                                                                                <option value="16">ปราจีนบุรี                                                               / Prachin Buri</option>
+                                                                                                                <option value="17">นครนายก                                                               / Nakhon Nayok</option>
+                                                                                                                <option value="18">สระแก้ว                                                               / Sa Kaeo</option>
+                                                                                                                <option value="19">นครราชสีมา                                                               / Nakhon Ratchasima</option>
+                                                                                                                <option value="20">บุรีรัมย์                                                               / Buri Ram</option>
+                                                                                                                <option value="21">สุรินทร์                                                               / Surin</option>
+                                                                                                                <option value="22">ศรีสะเกษ                                                               / Si Sa Ket</option>
+                                                                                                                <option value="23">อุบลราชธานี                                                               / Ubon Ratchathani</option>
+                                                                                                                <option value="24">ยโสธร                                                               / Yasothon</option>
+                                                                                                                <option value="25">ชัยภูมิ                                                               / Chaiyaphum</option>
+                                                                                                                <option value="26">อำนาจเจริญ                                                               / Amnat Charoen</option>
+                                                                                                                <option value="27">หนองบัวลำภู                                                               / Nong Bua Lam Phu</option>
+                                                                                                                <option value="28">ขอนแก่น                                                               / Khon Kaen</option>
+                                                                                                                <option value="29">อุดรธานี                                                               / Udon Thani</option>
+                                                                                                                <option value="30">เลย                                                               / Loei</option>
+                                                                                                                <option value="31">หนองคาย                                                               / Nong Khai</option>
+                                                                                                                <option value="32">มหาสารคาม                                                               / Maha Sarakham</option>
+                                                                                                                <option value="33">ร้อยเอ็ด                                                               / Roi Et</option>
+                                                                                                                <option value="34">กาฬสินธุ์                                                               / Kalasin</option>
+                                                                                                                <option value="35">สกลนคร                                                               / Sakon Nakhon</option>
+                                                                                                                <option value="36">นครพนม                                                               / Nakhon Phanom</option>
+                                                                                                                <option value="37">มุกดาหาร                                                               / Mukdahan</option>
+                                                                                                                <option value="38">เชียงใหม่                                                               / Chiang Mai</option>
+                                                                                                                <option value="39">ลำพูน                                                               / Lamphun</option>
+                                                                                                                <option value="40">ลำปาง                                                               / Lampang</option>
+                                                                                                                <option value="41">อุตรดิตถ์                                                               / Uttaradit</option>
+                                                                                                                <option value="42">แพร่                                                               / Phrae</option>
+                                                                                                                <option value="43">น่าน                                                               / Nan</option>
+                                                                                                                <option value="44">พะเยา                                                               / Phayao</option>
+                                                                                                                <option value="45">เชียงราย                                                               / Chiang Rai</option>
+                                                                                                                <option value="46">แม่ฮ่องสอน                                                               / Mae Hong Son</option>
+                                                                                                                <option value="47">นครสวรรค์                                                               / Nakhon Sawan</option>
+                                                                                                                <option value="48">อุทัยธานี                                                               / Uthai Thani</option>
+                                                                                                                <option value="49">กำแพงเพชร                                                               / Kamphaeng Phet</option>
+                                                                                                                <option value="50">ตาก                                                               / Tak</option>
+                                                                                                                <option value="51">สุโขทัย                                                               / Sukhothai</option>
+                                                                                                                <option value="52">พิษณุโลก                                                               / Phitsanulok</option>
+                                                                                                                <option value="53">พิจิตร                                                               / Phichit</option>
+                                                                                                                <option value="54">เพชรบูรณ์                                                               / Phetchabun</option>
+                                                                                                                <option value="55">ราชบุรี                                                               / Ratchaburi</option>
+                                                                                                                <option value="56">กาญจนบุรี                                                               / Kanchanaburi</option>
+                                                                                                                <option value="57">สุพรรณบุรี                                                               / Suphan Buri</option>
+                                                                                                                <option value="58">นครปฐม                                                               / Nakhon Pathom</option>
+                                                                                                                <option value="59">สมุทรสาคร                                                               / Samut Sakhon</option>
+                                                                                                                <option value="60">สมุทรสงคราม                                                               / Samut Songkhram</option>
+                                                                                                                <option value="61">เพชรบุรี                                                               / Phetchaburi</option>
+                                                                                                                <option value="62">ประจวบคีรีขันธ์                                                               / Prachuap Khiri Khan</option>
+                                                                                                                <option value="63">นครศรีธรรมราช                                                               / Nakhon Si Thammarat</option>
+                                                                                                                <option value="64">กระบี่                                                               / Krabi</option>
+                                                                                                                <option value="65">พังงา                                                               / Phangnga</option>
+                                                                                                                <option value="66">ภูเก็ต                                                               / Phuket</option>
+                                                                                                                <option value="67">สุราษฎร์ธานี                                                               / Surat Thani</option>
+                                                                                                                <option value="68">ระนอง                                                               / Ranong</option>
+                                                                                                                <option value="69">ชุมพร                                                               / Chumphon</option>
+                                                                                                                <option value="70">สงขลา                                                               / Songkhla</option>
+                                                                                                                <option value="71">สตูล                                                               / Satun</option>
+                                                                                                                <option value="72">ตรัง                                                               / Trang</option>
+                                                                                                                <option value="73">พัทลุง                                                               / Phatthalung</option>
+                                                                                                                <option value="74">ปัตตานี                                                               / Pattani</option>
+                                                                                                                <option value="75">ยะลา                                                               / Yala</option>
+                                                                                                                <option value="76">นราธิวาส                                                               / Narathiwat</option>
+                                                                                                                <option value="77">บึงกาฬ                                                            / buogkan</option>
+                                                        
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="form-group" style="margin-top: 15px;">
+                                            <label for="tel_tax"
+                                                   class="col-sm-2 control-label">โทร</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control" name="tel_tax" id="tel_tax"
+                                                       placeholder="โทร">
+                                            </div>
+                                            <div class="col-sm-4" style="color: #E0E0E0">
+                                                เพื่อให้มั่นใจว่าทำการจัดส่งได้
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="form-group">
+                                            <label for="tax_code"
+                                                   class="col-sm-2 control-label">รหัสภาษี</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control" name="tax_code" id="tax_code"
+                                                       placeholder="เลขภาษีของบริษัท หรือ บุคคล">
+                                            </div>
+                                            <div class="col-sm-4" style="color: #E0E0E0">
+                                                อินวอย์สำหรับสินค้าที่จำหน่ายโดย Trader
+                                                จะได้รับการดำเนินการภายในระยะเวลาการจัดส่ง 7 วัน
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="form-group">
+                                            <label for="tin"
+                                                   class="col-sm-2 control-label">Tin</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control" name="tin" id="tin"
+                                                       placeholder="(optional)">
+                                            </div>
+                                            <div class="col-sm-4" style="color: #E0E0E0">
+                                                5 รหัสหลัก ถ้าเป็น สำนักงานใหญ่จะเป็น 00000 และถ้าเป็นสาขาจะเป็นเลข
+                                                00001 เป็นต้นไป.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </section>
+
+            <div class="header-tags">
+                <div class="overflow-h">
+                    <h2>การจ่ายเงิน</h2>
+                    <p>Select Payment Method</p>
+                    <i class="rounded-x fa fa-credit-card"></i>
+                </div>
+            </div>
+            <section>
+                <div class="row">
+                    <div class="col-md-12 md-margin-bottom-50">
+                        <h2 class="title-type">Choose A Payment Method</h2>
+                        <div class="cc-selector">
+                                                            <input type="radio" name="payment_type" value="cash_on_delivery" checked/>
+                                <script>
+                                    $(function () {
+                                        $('.mastercard').on('click', function () {
+                                            var v_link = $(this).data('detail');
+                                            var chk_class = $('.tab_payment').hasClass('active_payment').toString();
+                                            if (chk_class == "true") {
+                                                $('.tab_payment').removeClass('active_payment').addClass('df_none');
+                                            }
+                                            $('.' + v_link).removeClass('df_none').addClass('active_payment');
+                                        });
+                                    });
+                                </script>
+                                <style>
+                                    .active_payment {
+                                        display: block;
+                                    }
+
+                                    .df_none {
+                                        display: none;
+                                    }
+                                </style>
+                                                            <div class="col-xs-3">
+                                    <input id="payment_method_3" type="radio"
+                                           name="payment_type_chk"
+                                           value="2" checked />
+                                    <label class="drinkcard-cc mastercard" data-detail="3"
+                                           style="background: url('http://localhost/heelcare/uploads/payment_method_image/payment_method_3_thumb.jpg');"
+                                           for="payment_method_3"></label>
+                                    <div style="width: 100%; font-size: 17px; text-align: center;">ชำระเงินผ่านหน้าเคาท์เตอร์ธนาคาร</div>
+                                </div>
+                                                                <div class="col-xs-3">
+                                    <input id="payment_method_4" type="radio"
+                                           name="payment_type_chk"
+                                           value="5"  />
+                                    <label class="drinkcard-cc mastercard" data-detail="4"
+                                           style="background: url('http://localhost/heelcare/uploads/payment_method_image/payment_method_4_thumb.jpg');"
+                                           for="payment_method_4"></label>
+                                    <div style="width: 100%; font-size: 17px; text-align: center;">โอนเงินผ่านตู้ ATM</div>
+                                </div>
+                                                                <div class="col-xs-3">
+                                    <input id="payment_method_5" type="radio"
+                                           name="payment_type_chk"
+                                           value="5"  />
+                                    <label class="drinkcard-cc mastercard" data-detail="5"
+                                           style="background: url('http://localhost/heelcare/uploads/payment_method_image/payment_method_5_thumb.jpg');"
+                                           for="payment_method_5"></label>
+                                    <div style="width: 100%; font-size: 17px; text-align: center;">Internet Banking</div>
+                                </div>
+                                                        </div>
+                    </div>
+                    <div class="col-xs-12" style="margin-bottom: 40px;">
+                                                    <div class="3 tab_payment col-xs-12 active_payment"
+                                 style="padding: 20px;">
+                                <p><a data-topotext="[{">รายละเอียดบัญชีสำหรับการชำระค่าสินค้า Heelcare (Thailand)</a></p>\r\n<div>ชื่อบัญชี บจ.คาซ่า ดิ โมด้า</div>\r\n<div>บัญชีกระแสรายวัน สาขาสำนักงานใหญ่สีลม</div>\r\n<div>เลขที่บัญชี 101-326-656-2</div>                            </div>
+                                                        <div class="4 tab_payment col-xs-12 df_none"
+                                 style="padding: 20px;">
+                                <p><a data-topotext="[{">รายละเอียดบัญชีสำหรับการชำระค่าสินค้า Heelcare (Thailand)</a></p>\r\n<div>ชื่อบัญชี บจ.คาซ่า ดิ โมด้า</div>\r\n<div>บัญชีกระแสรายวัน สาขาสำนักงานใหญ่สีลม</div>\r\n<div>เลขที่บัญชี 101-326-656-2</div>                            </div>
+                                                        <div class="5 tab_payment col-xs-12 df_none"
+                                 style="padding: 20px;">
+                                <p><a data-topotext="[{">รายละเอียดบัญชีสำหรับการชำระค่าสินค้า Heelcare (Thailand)</a></p>\r\n<div>ชื่อบัญชี บจ.คาซ่า ดิ โมด้า</div>\r\n<div>บัญชีกระแสรายวัน สาขาสำนักงานใหญ่สีลม</div>\r\n<div>เลขที่บัญชี 101-326656-2</div>\r\n<p><a title="ธ. กรุงเทพ จำกัด (มหาชน)" href="http://www.bangkokbank.com" target="_blank">ธ. กรุงเทพ จำกัด (มหาชน)</a><br /><a title="ธ. กรุงไทย จำกัด (มหาชน) " href="http://www.ktb.co.th" target="_blank">ธ. กรุงไทย จำกัด (มหาชน) </a><br /><a title="ธ. กรุงศรีอยุธยา จำกัด (มหาชน) " href="http://www.krungsri.com" target="_blank">ธ. กรุงศรีอยุธยา จำกัด (มหาชน) </a><br /><a title="ธ. กสิกรไทย จำกัด (มหาชน)" href="http://www.kasikornbank.com" target="_blank">ธ. กสิกรไทย จำกัด (มหาชน)</a>  <br /><a title="ธ. เกียรตินาคิน จำกัด (มหาชน) " href="http://www.kiatnakin.co.th" target="_blank">ธ. เกียรตินาคิน จำกัด (มหาชน) </a><br /><a title="ธ. ซีไอเอ็มบี ไทย จำกัด (มหาชน) " href="http://www.cimbthai.com" target="_blank">ธ. ซีไอเอ็มบี ไทย จำกัด (มหาชน) </a><br /><a title="ธ. ทหารไทย จำกัด (มหาชน) " href="http://www.tmbbank.com" target="_blank">ธ. ทหารไทย จำกัด (มหาชน) </a><br /><a title="ธ. ทิสโก้ จำกัด (มหาชน)" href="http://www.tisco.co.th" target="_blank">ธ. ทิสโก้ จำกัด (มหาชน)</a><br /><a title="ธ. ไทยพาณิชย์ จำกัด (มหาชน) " href="http://www.scb.co.th" target="_blank">ธ. ไทยพาณิชย์ จำกัด (มหาชน) </a><br /><a title="ธ. ธนชาต จำกัด (มหาชน)" href="http://www.thanachartbank.co.th" target="_blank">ธ. ธนชาต จำกัด (มหาชน)</a><br /><a title="ธ. ยูโอบี จำกัด (มหาชน) " href="http://www.uob.co.th" target="_blank">ธ. ยูโอบี จำกัด (มหาชน) </a> <br /><a title="ธ. แลนด์ แอนด์ เฮ้าส์ จำกัด (มหาชน) " href="http://www.lhbank.co.th" target="_blank">ธ. แลนด์ แอนด์ เฮ้าส์ จำกัด (มหาชน) </a><br /><a title="ธ. สแตนดาร์ดชาร์เตอร์ด (ไทย) จำกัด (มหาชน) " href="https://www.sc.com/th/" target="_blank">ธ. สแตนดาร์ดชาร์เตอร์ด (ไทย) จำกัด (มหาชน) </a><br /><a title="ธ. ไอซีบีซี (ไทย) จำกัด (มหาชน)" href="http://www.icbcthai.com" target="_blank">ธ. ไอซีบีซี (ไทย) จำกัด (มหาชน)<br /></a><a title="ธ.ออมสิน" href="http://www.gsb.or.th/" target="_blank">ธ.ออมสิน</a></p>                            </div>
+                                                </div>
+
+                    <div class="col-md-12">
+                        <h2 class="title-type">Frequently Asked Questions</h2>
+                        <!-- Accordion -->
+                        <div class="accordion-v2 plus-toggle">
+                            <div class="panel-group" id="accordion-v2">
+                                                            </div>
+                        </div>
+                        <!-- End Accordion -->
+                    </div>
+                </div>
+            </section>
+
+
+            <div class="coupon-code">
+                <div class="row">
+                    <div class="col-sm-4 sm-margin-bottom-30">
+                        <h3>Discount Code</h3>
+                        <p>Enter your coupon code</p>
+                        <span id="coupon_report">
+                                                                            <input class="form-control margin-bottom-10 coupon_code" type="text">
+                                        <button type="button"
+                                                class="btn-u btn-u-sea-shop coupon_btn">Apply Coupon</button>
+                                                                    </span>
+                    </div>
+                    <script type="text/javascript">
+                        $('.coupon_btn').on('click', function () {
+                            var txt = $(this).html();
+                            var code = $('.coupon_code').val();
+                            $('#coup_frm').val(code);
+                            var form = $('#coupon_set');
+                            var formdata = false;
+                            if (window.FormData) {
+                                formdata = new FormData(form[0]);
+                            }
+                            var datas = formdata ? formdata : form.serialize();
+                            $.ajax({
+                                url: 'http://localhost/heelcare/index.php/home/coupon_check/',
+                                type: 'POST', // form submit method get/post
+                                dataType: 'html', // request type html/json/xml
+                                data: datas, // serialize form data
+                                cache: false,
+                                contentType: false,
+                                processData: false,
+                                beforeSend: function () {
+                                    $(this).html("Applying..");
+                                },
+                                success: function (result) {
+                                    if (result == 'nope') {
+                                        notify("Coupon Not Valid", 'warning', 'bottom', 'right');
+                                    } else {
+                                        var re = result.split(':-:-:');
+                                        var ty = re[0];
+                                        var ts = re[1];
+                                        $("#coupon_report").fadeOut();
+                                        notify("Coupon Discount Successful", 'success', 'bottom', 'right');
+                                        if (ty == 'total') {
+                                            $(".coupon_disp").show();
+                                            $("#disco").html(re[2]);
+                                        }
+                                        $("#coupon_report").html('<h3>' + ts + '</h3>');
+                                        $("#coupon_report").fadeIn();
+                                        update_calc_cart();
+                                        update_prices();
+                                    }
+                                }
+                            });
+                        });
+                    </script>
+                    <div class="col-sm-4 col-sm-offset-4">
+                        <div class="table-responsive cart_list">
+                            <table class="table" style="border: 1px solid #ddd;">
+                                <tr>
+                                    <td>Subtotal</td>
+                                    <td><span class="text-right" id="total"></span></td>
+                                </tr>
+
+                                <tr>
+                                    <td>Tax</td>
+                                    <td><span class="text-right" id="tax"></span></td>
+                                </tr>
+                                <tr>
+                                    <td>การจัดส่ง</td>
+                                    <td>
+                                        <span class="text-right" id="shipping"></span><br>
+                                        <span class="label label-danger">ถ้าซื้อสินค้าครบ 1000 บาทส่งฟรี</span>
+                                    </td>
+                                </tr>
+                                <tr style="display:none;"                                    class="coupon_disp">
+                                    <td>Coupon Discount</td>
+                                    <td><span class="text-right"
+                                              id="disco">฿0</span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Total</td>
+                                    <td class="total-result-in"><span class="grand_total" id="grand"></span></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        </form>
+    </div><!--/end container-->
+</div>
+<input type="hidden" id="first" value="yes"/>
+<!--=== End Content Medium Part ===-->
+
+<script>
+
+    jQuery(document).ready(function () {
+        App.init();
+        StepWizard.initStepWizard();
+    });
+
+    $(document).ready(function () {
+        update_calc_cart();
+
+        $('.add_tax').hide();
+        $('.checkbox_tax').on('change', function () {
+            if ($('.checkbox_tax').is(":checked")) {
+                // it is checked
+                $('.add_tax').show();
+            } else {
+                $('.add_tax').hide();
+            }
+        });
+
+        $('.add_another').hide();
+        $('input[type=radio][name=check_other]').on('change', function () {
+            if (this.value == 'add_ano') {
+                $('.add_another').show();
+            }
+            else {
+                $('.add_another').hide();
+            }
+        });
+
+        $('.postal_chk').on('change', function () {
+            var zip = $(this).val();
+//            alert(zip);
+            $.ajax({
+                url: 'http://localhost/heelcare/index.php/home/chk_postal/',
+                data: {code: zip},
+                dataType: "json",
+                type: 'POST', // form submit method get/post
+                success: function (data) {
+                    console.log(data);
+                    $("#city").autocomplete({
+                        source: data
+                    });
+                }
+            });
+        });
+
+
+    });
+
+</script>
+
+<form action="http://localhost/heelcare/index.php/home/cart_checkout/need_login" method="post" id="coupon_set" accept-charset="utf-8">
+<input type="hidden" id="coup_frm" name="code">
+</form>
+
+	    <!-- Modal -->
+    <div class="modal fade" id="v_registration" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div id='ajvlup'></div>
+    </div>
+    <!-- End Modal -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div id='ajlin'></div>
+    </div>
+    <!-- End Modal -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="registration" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div id='ajlup'></div> 
+    </div>
+    <!-- End Modal -->
+
+    <a data-toggle="modal" data-target="#login" id="loginss" ></a>
+    <a data-toggle="modal" data-target="#registration" id="regiss" ></a>
+    <a data-toggle="modal" data-target="#v_registration" id="v_regiss" ></a>
+    
+<!--=== Footer ===-->
+
+	<div class="footer-ztopy">
+            <div class="footer">
+                <div class="container">
+                    <div class="row">
+                        <!-- About -->
+                        <div class="col-md-3 md-margin-bottom-40">
+                            <center><a href="http://localhost/heelcare/">
+                            	<img id="logo-footer" class="footer-logo" width='100%' style="max-width: 230px !important;"
+                                	src="http://localhost/heelcare/uploads/logo_image/logo_6.png" alt="">
+                            </a></center>
+                            
+                            <p class="margin-bottom-10">
+                            	                            </p>
+
+							<form action="http://localhost/heelcare/index.php/home/subscribe" class="footer-subsribe" method="post" accept-charset="utf-8">
+    
+                                <div class="input-group">
+                                    <input type="text" class="form-control" name="email" id="subscr" placeholder="อีเมล">                            
+                                    <span class="input-group-btn">
+                                        <span class="btn-u subscriber">Subscribe</span>
+                                    </span>
+                                </div>                  
+                            </form>
+
+                            <div class="col-xs-12" style="margin-top: 20px" align="center">
+                                <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+                                <!-- Histats.com  START  (aync)-->
+                                <script type="text/javascript">var _Hasync= _Hasync|| [];
+                                    _Hasync.push(['Histats.start', '1,3712484,4,235,112,50,00011000']);
+                                    _Hasync.push(['Histats.fasi', '1']);
+                                    _Hasync.push(['Histats.track_hits', '']);
+                                    (function() {
+                                        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+                                        hs.src = ('//s10.histats.com/js15_as.js');
+                                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+                                    })();</script>
+                                <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3712484&101" alt="" border="0"></a></noscript>
+                                <!-- Histats.com  END  -->
+                            </div>
+
+
+                        </div>
+                        <!-- End About -->
+                        
+                        <!-- Link List -->
+                        <div class="col-md-3 md-margin-bottom-40">
+                            <div class="headline"><h2 class="heading-sm">หมวดหมู่</h2></div>
+                            <ul class="list-unstyled link-list">
+                            	                                <li>
+                                	<a href="http://localhost/heelcare/index.php/home/category/1">
+                                    	SANDAL                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                                                                <li>
+                                	<a href="http://localhost/heelcare/index.php/home/category/2">
+                                    	PUMP                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                                                                <li>
+                                	<a href="http://localhost/heelcare/index.php/home/category/10">
+                                    	COMFORT                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                                                            </ul>
+                        </div>
+                        <!-- End Link List -->                  
+
+                        <!-- Link List -->
+                        <div class="col-md-3 md-margin-bottom-40">
+                            <div class="headline heading-v4"><h2 class="heading-sm">Useful Links</h2></div>
+                            <ul class="list-unstyled link-list">
+                                <li>
+                                	<a href="http://localhost/heelcare/index.php/home/">
+                                    	หน้าแรก                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                                <li>
+                                	<a href="http://localhost/heelcare/index.php/home/category">
+                                    	สินค้าทั้งหมด                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                                <li>
+                                	<a href="http://localhost/heelcare/index.php/home/featured_item">
+                                    	Featured                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                                <li>
+                                	<a href="http://localhost/heelcare/index.php/home/contact">
+                                    	ติดต่อเรา                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- End Link List -->  
+
+                        <!-- Address -->
+                        <div class="col-md-3 md-margin-bottom-40">
+                            <div class="headline"><h2 class="heading-sm">ติดต่อเรา</h2></div>                         
+                            <address class="md-margin-bottom-40">
+                                <i class="fa fa-home"></i>
+									บริษัท ค่าซ่าดิโมด้า จำกัด <br />
+                                <i class="fa fa-phone"></i>
+                                	Phone: 091-890-3797, 02-689-8345#2207 <br />
+                                <i class="fa fa-globe"></i>
+                                	Website: <a href="www.heelcarethailand.com">www.heelcarethailand.com</a> <br />
+                                <i class="fa fa-envelope"></i>
+                                	อีเมล: <a href="mailto:heelcareofficial@gmail.com">heelcareofficial@gmail.com</a> 
+                            </address>
+
+                            <!-- Social Links -->
+                            <ul class="social-icons">
+                                <li>
+                                	<a href="https://www.facebook.com/heelcare" data-original-title="Facebook" 
+                                    	class="rounded-x social_facebook"></a>
+                                </li>
+                                <li>
+                                	<a href="https://twitter.com/heelcareshoes" data-original-title="Twitter" 
+                                    	class="rounded-x social_twitter"></a>
+                                </li>
+                                <li>
+                                	<a href="​ https://plus.google.com/u/4/b/110443909468708628420/110443909468708628420?_ga=1.221343320.1967361784.1474511498" data-original-title="Google Plus" 
+                                    	class="rounded-x social_googleplus"></a>
+                                </li>
+                                <li>
+                                	<a href="http://youtube.com/" data-original-title="Youtube" 
+                                    	class="rounded-x social_youtube"></a>
+                                </li>
+                            </ul>
+                            <!-- End Social Links -->
+                        </div>
+                        <!-- End Address -->
+                    </div>
+                </div> 
+            </div><!--/footer-->
+
+            <div class="copyright">
+                <div class="container">
+                	<div class="row">
+                    	<div class="col-md-7"> 
+                        	<p class="pull-left list-unstyled link-list">2015 &copy; All Rights Reserved @ <a target="_blank" href="http://localhost/heelcare/">Heelcare Thailand</a> | <a target="_blank" href="http://localhost/heelcare/index.php/home/legal/terms_conditions">Terms & Condition</a> | <a target="_blank" href="http://localhost/heelcare/index.php/home/legal/privacy_policy">Privacy Policy</a></p>
+                        </div>
+                    	<div class="col-md-5"> 
+                        	 <ul class="list-inline sponsors-icons pull-right">
+                            <li><i class="fa fa-cc-paypal cards"></i></li>
+                            <li><i class="fa fa-cc-visa cards"></i></li>
+                            <li><i class="fa fa-cc-mastercard cards"></i></li>
+                            <li><i class="fa fa-cc-discover cards"></i></li>
+                        </ul>
+
+                        </div>
+                    </div>
+                </div> 
+            </div><!--/copyright--> 
+        </div>
+<!--=== End Footer===-->
+
+</div><!--/wrapper--><script>
+	var base_url = 'http://localhost/heelcare/'; 
+	var product_added = 'Product Added To Cart';
+	var added_to_cart = 'Added To Cart';
+	var quantity_exceeds = 'Product Quantity Exceed Availability!';
+	var product_already = 'Product Already Added To Cart!';
+	var wishlist_add = 'Product Added To Wishlist';
+	var wishlist_add1 = 'Added To Wishlist';
+	var wishlist_adding = 'Adding To Wishlist..';
+	var wishlist_remove = 'Product Removed From Wishlist';
+	var rated_success = 'Product Rated Successfully';
+	var rated_fail = 'Product Rating Failed';
+	var rated_already = 'You Already Rated This Product';
+	var working = 'Working..';
+	var subscribe_already = 'You Already Subscribed';
+	var subscribe_success = 'You Subscribed Successfully';
+	var subscribe_sess = 'You Already Subscribed Thrice From This Browser';
+	var logging = 'Logging In..';
+	var login_success = 'You Logged In Successfully';
+	var login_fail = 'เข้าสู่ระบบล้มเหลว! ลองอีกครั้ง!';
+	var logup_success = 'ท่านลงทะเบียนเรียบร้อยแล้ว';
+	var logup_fail = 'Registration Failed! Try Again!';
+	var logging = 'Logging In..';
+	var submitting = 'Submitting..';
+	var email_sent = 'ส่งอีเมลเรียบร้อยแล้ว';
+	var email_noex = 'Email Does Not Exist!';
+	var email_fail = 'ส่งอีเมล์ล้มเหลว! ลองอีกครั้ง';
+	var logging = 'Logging In';		
+	var cart_adding = 'Adding To Cart..';	
+	var cart_product_removed = 'Product Removed From Cart';	
+	var required = 'The Field Is Required';
+	var mbn = 'Must Be A Number';
+	var mbe = 'จะต้องเป็นที่อยู่อีเมลที่ถูกต้อง';		
+</script><style>
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+        .facebook-popup{
+            position: fixed;
+            right: 70px;
+            bottom: -500px;
+            z-index: 99999;
+        }
+    }
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 320px) {
+        .facebook-popup{
+            position: fixed;
+            right: 45px;
+            bottom: -500px;
+            z-index: 99999;
+        }
+    }
+</style>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/th_TH/sdk.js#xfbml=1&version=v2.8&appId=1194886733920083";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+    <div class="facebook-popup">
+        <div class="fbm" data-fbm=""><img src="http://localhost/heelcare//images/fbm.png"></div>
+        <div class="fb-page"
+             data-tabs="messages,timeline,events"
+             data-href="https://www.facebook.com/heelcare/"
+             data-width="380"
+             data-hide-cover="false"></div>
+    </div>
+
+<script>
+    $(function() {
+        $(document).on("click", '.fbm', function(event) {
+            $('.fbm').someFunction();
+        });
+    });
+
+    $.fn.someFunction = function(){
+        this.each(function(){
+            // only handle "someElement"
+            if (false == $(this).hasClass("close-fbm")) {
+                $(this).addClass('close-fbm');
+                $('.facebook-popup').css('bottom',0);
+                return $('.facebook-popup'); // do nothing
+            }else{
+                $(this).removeClass('close-fbm');
+                $('.facebook-popup').css('bottom','-500px');
+                return $('.facebook-popup'); // do nothing
+            }
+        });
+    };
+</script>
+<script>
+    function set_loggers(){
+        var state = check_login_stat('state');
+        var name = check_login_stat('username');
+        state.success(function (data) {
+            if(data == 'hypass'){
+                name.success(function (data) {
+                    document.getElementById('loginsets').innerHTML = ''
+                    +'    <li>'
+                    +'        <a href="http://localhost/heelcare/index.php/home/profile/">'+data+'</a>'
+                    +'    </li>'
+                    +'    <li>'
+                    +'       <a href="http://localhost/heelcare/index.php/home/logout/">ออกจากระบบ</a>'
+                    +'    </li>'
+                    +'';
+                });
+                if($('body').find('.shopping-cart').length){
+                    set_cart_form();
+                }
+            } else {
+                document.getElementById('loginsets').innerHTML = ''
+				                +'    <li>'
+                +'        <a data-toggle="modal" data-target="#login" class="point">เข้าสู่ระบบ</a>'
+                +'    </li>'
+                +'    <li>'
+                +'       <a data-toggle="modal" data-target="#registration" class="point">ลงทะเบียน</a>'
+                +'    </li>'
+                +'';
+            }
+        });  
+        //onclick="ajax_load('+"'http://localhost/heelcare/index.php/home/login_set/login','login')"+';"
+        var cart = '';
+        if($('body').find('.shopping-cart').length){
+            cart = 'cart';
+        }
+
+        ajax_load('http://localhost/heelcare/index.php/home/vendor_logup/registration/','ajvlup');
+        ajax_load('http://localhost/heelcare/index.php/home/login_set/registration/'+cart,'ajlup');
+        ajax_load('http://localhost/heelcare/index.php/home/login_set/login/'+cart,'ajlin');
+    }
+
+    function check_login_stat(thing){
+        return $.ajax({
+            url: 'http://localhost/heelcare/index.php/home/check_login/'+thing
+        });
+    }
+
+
+    function set_cart_form(){
+        check_login_stat('langlat').success(function (data) { $('#langlat').val(data); });
+        check_login_stat('username').success(function (data) { $('#name').val(data); });
+        check_login_stat('email').success(function (data) { $('#email').val(data); });
+        check_login_stat('surname').success(function (data) { $('#surname').val(data); });
+        check_login_stat('phone').success(function (data) { $('#phone').val(data); });
+        check_login_stat('address1').success(function (data) { $('#address_1').val(data); });
+        check_login_stat('address2').success(function (data) { $('#address_2').val(data); });
+        check_login_stat('city').success(function (data) { $('#city').val(data); });
+        check_login_stat('zip').success(function (data) { $('#zip').val(data); });
+    }
+	
+    $( document ).ready(function() {
+        set_loggers();
+		    });
+
+    var base_url = 'http://localhost/heelcare/';
+    function register(){
+        setTimeout( function(){ 
+            $('#regiss').click();
+        }
+        , 400 );
+    }
+
+    function signin(){
+        setTimeout( function(){ 
+            $('#loginss').click();
+        }
+        , 400 );
+    }
+
+    function vend_logup(){
+        setTimeout( function(){ 
+            $('#v_regiss').click();
+        }
+        , 5000 );
+    }
+
+</script>
+
+<form action="http://localhost/heelcare/index.php/home/cart_checkout/need_login" method="post" id="cart_form_singl" accept-charset="utf-8">
+<input type="hidden" name="color" value="">
+<input type="hidden" name="qty" value="1">
+</form>
+
+<!-- JS Global Compulsory -->
+<script src="http://localhost/heelcare/template/front/assets/plugins/jquery/jquery-migrate.min.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/plugins/jasny-bootstrap/js/jasny-bootstrap.min.js"></script>
+<!-- JS Implementing Plugins -->
+<script src="http://localhost/heelcare/template/front/assets/plugins/back-to-top.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/plugins/scrollbar/src/jquery.mousewheel.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/plugins/scrollbar/src/perfect-scrollbar.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/plugins/noUiSlider/jquery.nouislider.full.min.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/plugins/jquery.parallax.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/plugins/jquery-steps/build/jquery.steps.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/plugins/sky-forms/version-2.0.1/js/jquery.validate.min.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/plugins/sky-forms/version-2.0.1/js/jquery-ui.min.js"></script>
+
+
+<script src="http://localhost/heelcare/template/front/assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<!-- JS Customization -->
+<script src="http://localhost/heelcare/template/front/assets/js/plugins/printThis.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/js/custom.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/js/plugins/stepWizard.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/js/forms/page_login.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/js/forms/product-quantity.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/js/ajax_method.js"></script>
+
+
+
+<!-- JS Page Level -->
+<script src="http://localhost/heelcare/template/front/assets/js/shop.app.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/js/plugins/owl-carousel.js"></script>
+<script src="http://localhost/heelcare/template/front/assets/js/plugins/revolution-slider.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/bootstrap-datepicker/js/locales/bootstrap-datepicker.th.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/counter/waypoints.min.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/counter/jquery.counterup.min.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/js/pages/page_contacts.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/flexslider/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/js/plugins/parallax-slider.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/parallax-slider/js/modernizr.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
+
+<script  type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/ionrangeslider/js/ion.rangeSlider.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/js/plugins/bootstrap-notify.min.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/js/plugins/fancy-box.js"></script>
+
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/image-hover/js/modernizr.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/image-hover/js/touch.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/css3-animate/js/css3-animate-it.js"></script>
+<script type="text/javascript" src="http://localhost/heelcare/template/front/assets/plugins/glasscase/js/jquery.glasscase.js"></script>
+
+    
+<script>
+	$('html, body').css({
+		'overflow': 'hidden',
+		'height': '100%'
+	});
+	
+    jQuery(document).ready(function() {
+        App.init();  
+        App.initParallaxBg();
+        OwlCarousel.initOwlCarousel();
+        RevolutionSlider.initRSfullWidth();
+        ParallaxSlider.initParallaxSlider(); 
+        FancyBox.initFancybox(); 
+    });
+	
+    $(document).ready(function() {
+        ajax_load('http://localhost/heelcare/index.php/home/cart/added_list/','added_list','');
+    			// Hide it after 3 seconds
+        setTimeout(function(){
+            $('html, body').css({
+                'overflow': 'auto',
+                'height': 'auto'
+            });
+            $('#preloader').fadeOut("slow");
+        }, 1200);
+        setTimeout(function(){
+            if($('#layerslider').length){
+                start_slider();
+            }
+            //$('#chatContainer').show('slow');
+        }, 800);
+    });
+
+            function sound(type){}
+    </script>
+<audio style='display:none;' id='already_cart' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/already_cart.mp3"></audio>
+<audio style='display:none;' id='captcha_incorrect' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/captcha_incorrect.mp3"></audio>
+<audio style='display:none;' id='cart_empty' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/cart_empty.mp3"></audio>
+<audio style='display:none;' id='cart_product_removed' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/cart_product_removed.mp3"></audio>
+<audio style='display:none;' id='cart_shortage' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/cart_shortage.mp3"></audio>
+<audio style='display:none;' id='form_submit_problem' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/form_submit_problem.mp3"></audio>
+<audio style='display:none;' id='message_sent' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/message_sent.mp3"></audio>
+<audio style='display:none;' id='profile_update_fail' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/profile_update_fail.mp3"></audio>
+<audio style='display:none;' id='profile_update_success' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/profile_update_success.mp3"></audio>
+<audio style='display:none;' id='successful_cart' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/successful_cart.mp3"></audio>
+<audio style='display:none;' id='successful_login' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/successful_login.mp3"></audio>
+<audio style='display:none;' id='successful_wish' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/successful_wish.mp3"></audio>
+<audio style='display:none;' id='unsuccessful_login' ><source type="audio/mpeg" src="http://localhost/heelcare/uploads/audio/home/unsuccessful_login.mp3"></audio>
+<!--[if lt IE 9]>
+    <script src="http://localhost/heelcare/template/front/assets/plugins/respond.js"></script>
+    <script src="http://localhost/heelcare/template/front/assets/plugins/html5shiv.js"></script>
+    <script src="http://localhost/heelcare/template/front/assets/js/plugins/placeholder-IE-fixes.js"></script>
+<![endif]-->
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 864799360;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/864799360/?guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+
+</body>
+</html> 

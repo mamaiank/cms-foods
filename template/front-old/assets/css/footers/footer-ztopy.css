@@ -1,0 +1,57 @@
+/*footer-ztopy
+------------------------------------*/
+.footer-ztopy .footer {
+	padding: 40px 0;
+	background: url("../../img/bg_bottom.png") repeat;
+}
+
+.footer-ztopy .footer p {
+	color: #666;
+	font-weight:300;
+}
+
+.footer-ztopy .headline h2 {
+	color: #666;
+}
+
+/*Footer Subsribe*/
+.footer-ztopy .footer-subsribe {
+	width: 100%;
+}
+
+/*Link List*/
+.footer-ztopy .link-list li {
+	border-top: solid 1px #eee;
+}
+
+.footer-ztopy .link-list a {
+	color: #666;
+	font-weight:300;
+}
+
+.footer-ztopy address {
+	color: #666;
+	line-height: 23px;
+}
+
+.footer-ztopy address i {
+	min-width: 20px;
+	margin-right: 5px;
+	text-align: center;
+}
+
+/*Copyright*/
+.footer-ztopy .copyright {
+	border-top: none;
+	background: #FFFFFF;
+	padding: 10px 0 2px;
+}
+
+.footer-ztopy .copyright p {
+	color: #666666;
+	margin-bottom: 0;
+}
+.cards{
+color:#666666 !important;
+font-size:25px !important;	
+}
